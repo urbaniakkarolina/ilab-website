@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Great Sailor";
+  src: url("C:/Users/urban/Downloads/Great Sailor.otf");
+}
+
+@font-face {
+  font-family: "DM Serif Display Regular";
+  src: url("C:/Users/urban/Downloads/DM Serif Display Regular.otf");
+}
+
+@font-face {
+  font-family: "LM Roman";
+  src: url("C:/Users/urban/Downloads/lmroman12-regular.otf");
+}
+
+/* @font-face {
+  font-family: "DM Serif Display Regular";
+  src: url("https://db.onlinewebfonts.com/t/8c8271621fa1a85af0435fbd77586686.eot");
+  src:
+    url("https://db.onlinewebfonts.com/t/8c8271621fa1a85af0435fbd77586686.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/8c8271621fa1a85af0435fbd77586686.woff2")
+      format("woff2"),
+    url("https://db.onlinewebfonts.com/t/8c8271621fa1a85af0435fbd77586686.woff")
+      format("woff"),
+    url("https://db.onlinewebfonts.com/t/8c8271621fa1a85af0435fbd77586686.ttf")
+      format("truetype"),
+    url("https://db.onlinewebfonts.com/t/8c8271621fa1a85af0435fbd77586686.svg#DM Serif Display Regular")
+      format("svg");
+} */
+
+@font-face {
+  font-family: "Abril Fatface Regular";
+  src: url("C:/Users/urban/Downloads/AbrilFatface-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-Regular";
+  src: url("C:/Users/urban/Downloads/Montserrat-Regular.otf");
+}
+
+@font-face {
+  font-family: "montserrat-light";
+  src: url("C:/Users/urban/Downloads/Montserrat-Light.ttf");
+}
